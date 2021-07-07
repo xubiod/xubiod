@@ -5,7 +5,7 @@ hello there. welcome. these are words. idk
 my [website](http://xubiod.net) exists and it has some cool stuff i guess
 
 ## what
-i mainly use **gamemaker language** in **gms2.3+** and **c#** with **.net core 2.x/3.x**
+i mainly use **gamemaker language** in **gms2.3+** and **c#** with **.net core 2.x/3.x** in visual studio 2019
 
 trying to learn some more to make my ability to get a job increase
 
