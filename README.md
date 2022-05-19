@@ -12,6 +12,9 @@ i used **gamemaker language** in **gms2.3+** in the past
 trying to learn some more to make my ability to get a job increase
 
 ## what
+you can throw some money at my [donate page](https://xubiod.net/donate/) on my site but please don't
+
+## what
 can you stop asking what
 
 <!--
