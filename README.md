@@ -5,11 +5,11 @@ hello there. welcome. these are words. idk
 my [website](http://xubiod.net) exists and it has some cool stuff i guess
 
 ## what
-i mainly **gdscript** in **godot engine** and **c#** with **.net core 2.x/3.x** in visual studio 2019
+i mainly **gdscript** in **godot engine** and **c#** with **.net 6** in visual studio 2022
 
 i used **gamemaker language** in **gms2.3+** in the past
 
-trying to learn some more to make my ability to get a job increase
+learning **go** on my own, not fully comfortable yet of pushing any to github
 
 ## what
 you can throw some money at my [donate page](https://xubiod.net/donate/) on my site but please don't
