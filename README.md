@@ -1,5 +1,5 @@
 # hi
-hello there. welcome. these are words. idk
+hello there. feel free to use he/she/they pronouns n stuff
 
 ## what
 my [website](http://xubiod.net) exists and it has some cool stuff i guess
