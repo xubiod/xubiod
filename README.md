@@ -2,7 +2,9 @@
 hello there. feel free to use he/she/they pronouns n stuff
 
 ## what
-my [website](http://xubiod.net) exists and it has some cool stuff i guess
+badges
+
+[![Website Link](https://img.shields.io/badge/website-xubiod.net-blue)](https://xubiod.net) ![Twitter Follow](https://img.shields.io/twitter/follow/xubiod?style=flat) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCjOsw98p4g5jQqSPqqmD_9A?style=flat) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCjOsw98p4g5jQqSPqqmD_9A?style=flat) 
 
 ## what
 i mainly **gdscript** in **godot engine** and **c#** with **.net 6** in visual studio 2022
