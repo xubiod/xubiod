@@ -32,6 +32,15 @@ i have used these in the past:
   - most comfortable with later versions with structs and memory management
 
 ## what
+
+<details>
+<summary>here's metrics provided by lowlighter/metrics that's collapsed for space atm</summary>
+
+![Metrics](github-metrics.svg)
+
+</details>
+
+## what
 you can throw some money at my [donate page](https://xubiod.net/donate/) on my site but please don't
 
 ## what
