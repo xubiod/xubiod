@@ -28,7 +28,6 @@ jobs:
           user: xubiod
           template: classic
           base: header, activity, community, repositories, metadata
-          base_indepth: yes
           config_timezone: America/New_York
           plugin_activity: yes
           plugin_activity_days: 14
@@ -41,8 +40,6 @@ jobs:
           plugin_code_lines: 12
           plugin_code_load: 400
           plugin_code_visibility: public
-          plugin_introduction: yes
-          plugin_introduction_title: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
@@ -54,11 +51,4 @@ jobs:
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
-          plugin_languages_skipped: html
           plugin_languages_threshold: 0%
-          plugin_lines: yes
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_types: commit
-          plugin_repositories: yes
-          repositories_skipped: html, persona, xyz, experixus, xubiod-scratch-extensions, execute, potential-potato, rusty-api, xubiod.github.io
