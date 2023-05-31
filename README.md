@@ -4,7 +4,7 @@ hello there. feel free to use she/he/they pronouns n stuff
 ## what
 badges powered through [shields.io](https://shields.io)
 
-[![Website Link](https://img.shields.io/badge/website-xubiod.net-blue)](https://xubiod.net) [![Twitter Follow](https://img.shields.io/twitter/follow/xubiod?style=flat)](https://twitter.com/Xubiod) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCjOsw98p4g5jQqSPqqmD_9A?style=flat)](https://youtube.com/channel/UCjOsw98p4g5jQqSPqqmD_9A/) [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCjOsw98p4g5jQqSPqqmD_9A?style=flat)](https://youtube.com/channel/UCjOsw98p4g5jQqSPqqmD_9A/)
+[![Website Link](https://img.shields.io/badge/website-xubiod.net-blue)](https://xubiod.net) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCjOsw98p4g5jQqSPqqmD_9A?style=flat)](https://youtube.com/channel/UCjOsw98p4g5jQqSPqqmD_9A/) [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCjOsw98p4g5jQqSPqqmD_9A?style=flat)](https://youtube.com/channel/UCjOsw98p4g5jQqSPqqmD_9A/)
 
 ## what
 i mainly use the following for personal projects (open/semi-open/closed):
