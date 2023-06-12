@@ -10,9 +10,9 @@ badges powered through [shields.io](https://shields.io)
 i mainly use the following for personal projects (open/semi-open/closed):
 
 - **gdscript** in **godot engine**
-- **c#** with **.net 6** in visual studio 2022
+- **c#** with **.net 7** in visual studio community 2022 and jetbrains rider
   - have worked with c# since .net framework 4.x, more comfortable with .net core and beyond
-- **go** in vscode (thinking about jetbrains goland a bit)
+- **go** in jetbrains goland and vscode
 
 for education reasons (college) i have worked with:
 
