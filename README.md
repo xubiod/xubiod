@@ -1,5 +1,5 @@
 # hi
-hello there. feel free to use she/he/they pronouns n stuff
+hello there.
 
 ## what
 badges powered through [shields.io](https://shields.io)
