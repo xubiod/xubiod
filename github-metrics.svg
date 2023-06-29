@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1487" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1404" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1715 Commits
+                            1716 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="358.8193815389874" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="358.8193815389874" y="0" width="65.60202663232447" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="424.42140817131184" y="0" width="14.715499948062275" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="439.1369081193741" y="0" width="9.377805614412104" height="8" fill="#71b417"/>
-                    <rect mask="url(#languages-bar)" x="448.5147137337862" y="0" width="4.666649167935325" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="453.18136290172157" y="0" width="3.284868363001129" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="456.4662312647227" y="0" width="2.7519691657461216" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.2182004304688" y="0" width="0.781799569531209" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="358.8181541549653" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="358.8181541549653" y="0" width="65.60180223285376" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="424.41995638781907" y="0" width="14.715449611958814" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="439.1354059997779" y="0" width="9.377773536521763" height="8" fill="#71b417"/>
+                    <rect mask="url(#languages-bar)" x="448.5131795362996" y="0" width="4.666633205111353" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="453.17981274141096" y="0" width="3.286430610984498" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="456.46624335239545" y="0" width="2.751959752310959" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.21820310470645" y="0" width="0.7817968952935578" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1347,6 +1347,26 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">xubiod/img-convert</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d8ea307</div>
+                                        <div class="message">split these strings across lines for readability</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 3 commits in
                                         <span class="repo">xubiod/img-convert</span>
                                     </div>
@@ -1453,30 +1473,6 @@ forgot to check these to commit oh no</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">xubiod/img-convert</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d425318</div>
-                                        <div class="message">ico import support</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1b92ffb</div>
-                                        <div class="message">aseprite import support</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1502,7 +1498,7 @@ forgot to check these to commit oh no</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 28 Jun 2023, 13:23:19
+                            On 29 Jun 2023, 10:44:28
                         </div>
                     </section>
                 </div>
@@ -1512,16 +1508,16 @@ forgot to check these to commit oh no</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            aseprite import support
+                            a clarification
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">1b92ffb6</span>
-                            <span class="code">go.sum</span>
+                            <span class="code">77c5e7aa</span>
+                            <span class="code">ui.go</span>
                             <span class="code">
-                                <span class="snippet additions">++2</span>
+                                <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--0</span>
                             </span>
                         </div>
@@ -1530,14 +1526,14 @@ forgot to check these to commit oh no</div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -3,6 +3,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=<br /></span><span class="token prefix unchanged">·</span><span class="token line">github.com/andybalholm/brotli v1.0.4/go.mod h1:fO7iG3H7G2nSZ7m0zPUDn85XEX2GTukHGRSepvi9Eig=<br /></span><span class="token prefix unchanged">·</span><span class="token line">github.com/andybalholm/cascadia v1.3.1/go.mod h1:R4bJ1UQfqADjvDa4P6HZHLh/3OxWWEqc0Sk8XGwHqvA=<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">github.com/askeladdk/aseprite v0.0.3 h1:8bNh/XeOTaDmQSI4C1YA+Kqq8PElXtya7aIsC8MNz+w=<br /></span><span class="token prefix inserted">+</span><span class="token line">github.com/askeladdk/aseprite v0.0.3/go.mod h1:lVW4EwZ7lgQjeHp7MhYj1NII5a/yLYyvAo7COPIn3WY=<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">github.com/blezek/tga v0.0.0-20150626111426-80720cbc1017 h1:TWk6m6k3qegbUZsdsHk/ix22ANqPgLau40bPwiNQN40=<br /></span><span class="token prefix unchanged">·</span><span class="token line">github.com/blezek/tga v0.0.0-20150626111426-80720cbc1017/go.mod h1:WnX8JiQN+UtyUPq/1EIUaB2WVX3wdAmOBH5K52NyOO0=<br /></span><span class="token prefix unchanged">·</span><span class="token line">github.com/bodgit/megasd v0.0.0-20200702170038-afc20ba65dc3 h1:lHZwKpae+uNaq/cdDcHouYfUUSm+J9M+O+i7NbTSvBU=</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -152,6 +152,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">imgui.TextUnformatted("to convert, just drop it on the main window, files will appear in the same directory")<br /></span><span class="token prefix unchanged">·</span><span class="token line">imgui.TextWrapped(fmt.Sprintf("currently supports decoding: %v", ValidInputTypes))<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">imgui.TextWrapped("layered formats will get flattened, and animations *might* become texture aliases, but it depends on the format and decoder")<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">imgui.NewLine()<br /></span><span class="token prefix unchanged">·</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jun 2023, 14:11:23 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 29 Jun 2023, 15:02:35 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
