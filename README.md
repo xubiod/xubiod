@@ -11,7 +11,7 @@ i mainly use the following for personal projects (open/semi-open/closed):
 
 - **gdscript** in **godot engine**
 - **c#** with **.net 7** in visual studio community 2022 and jetbrains rider
-  - have worked with c# since .net framework 4.x, more comfortable with .net core and beyond
+  - have worked with c# since .net framework 3.5, more comfortable with .net core and beyond
 - **go** in jetbrains goland and vscode
 
 for education reasons (college) i have worked with:
