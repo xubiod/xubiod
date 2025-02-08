@@ -1456,17 +1456,17 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            rearrange and lightly change how this line does its work
+                            forgot this use of `main_data` over `image_*` in the `load()` function
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">18970f2b</span>
+                            <span class="code">cb8eed10</span>
                             <span class="code">src/ui/loaded_aseprite.rs</span>
                             <span class="code">
-                                <span class="snippet additions">++1</span>
-                                <span class="snippet deletions">--1</span>
+                                <span class="snippet additions">++2</span>
+                                <span class="snippet deletions">--2</span>
                             </span>
                         </div>
                     </section>
@@ -1474,14 +1474,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -160,7 +160,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">visible:      lchunk.flags &amp; AsepriteLayerFlags::Visible &gt; 0,<br /></span><span class="token prefix unchanged">·</span><span class="token line">background:   lchunk.flags &amp; AsepriteLayerFlags::Background &gt; 0,<br /></span><span class="token prefix unchanged">·</span><span class="token line">is_reference: lchunk.flags &amp; AsepriteLayerFlags::IsReference &gt; 0,<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">name:         lchunk.name.as_str().ok().unwrap_or(format!("frame{frame_idx} chunk{chunk_idx}").as_str()).to_owned(),<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">name:         lchunk.name.as_str().ok().map(|x| x.to_owned()).unwrap_or(format!("frame{frame_idx} chunk{chunk_idx}")),<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">full_name:    None,<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">parent_index: NO_PARENT,</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -202,8 +202,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    collision_bounds:       Rectangle{<br /></span><span class="token prefix unchanged">·</span><span class="token line">        x: frame_idx as f32 * offset.x,<br /></span><span class="token prefix unchanged">·</span><span class="token line">        y: cel.layer_index as f32 * offset.y * -1.0,<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">        width: main_data.header.width as f32 * pixel_width as f32,<br /></span><span class="token prefix deleted">-</span><span class="token line">        height: main_data.header.height as f32 * pixel_height as f32,<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">        width: image_width as f32 * pixel_width as f32,<br /></span><span class="token prefix inserted">+</span><span class="token line">        height: image_height as f32 * pixel_height as f32,<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    },<br /></span><span class="token prefix unchanged">·</span><span class="token line">    hover: false<br /></span><span class="token prefix unchanged">·</span><span class="token line">});</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Feb 2025, 23:22:43 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Feb 2025, 01:25:42 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
