@@ -3,7 +3,7 @@ hello there.
 
 ## what
 a language polyglot still programming like it's the good old days, with
-her brain and thinking for herself
+her brain and thinking for herself (it's more fun that way!)
 
 ## what
 
